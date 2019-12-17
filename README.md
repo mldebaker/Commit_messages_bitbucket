@@ -1,1 +1,1 @@
-# Retrieve BitBucket commit messages for calance
+# Retrieve BitBucket commit messages for Calance US
