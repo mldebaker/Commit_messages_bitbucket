@@ -1,1 +1,1 @@
-# Commit_messages_bitbucket
+# Retrieve BitBucket commit messages for calance
